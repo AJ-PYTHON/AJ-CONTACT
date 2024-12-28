@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: Text Leech Bot
+    name: CONTACT BOT
     plan: free
     env: docker
     dockerfilePath: Dockerfile
