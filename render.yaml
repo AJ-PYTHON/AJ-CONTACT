@@ -4,7 +4,7 @@ services:
     plan: free
     env: docker
     dockerfilePath: Dockerfile
-    repo: https://github.com/AshutoshGoswami24/text-leech-bot-for-render
+    repo: https://github.com/AJ_PYTHON/AJ_CONTACT
     branch: main
     autoDeploy: false
     envVars:
